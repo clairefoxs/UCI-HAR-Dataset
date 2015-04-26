@@ -11,6 +11,10 @@ The run_analysis.R script file generates an output.txt file. The data in this do
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
+Raw data can be downloaded here:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 A description of the raw data and original experiment can be found in the associated README.md file.
 
 From the original data README file: Features are normalized and bounded within [-1,1].
